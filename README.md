@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giridharan-7" alt="giridharan-7" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gdeveloper101" target="blank"><img src="https://img.shields.io/twitter/follow/gdeveloper101?logo=twitter&style=for-the-badge" alt="gdeveloper101" /></a> </p>
 
-- 🔭 I’m currently working on [Cal.com](https://github.com/calcom/cal.com)
+- 🔭 I’m currently working on [SurveySparrow](https://surveysparrow.com/)
 
 - 🌱 I’m currently learning **TS, JS, Web3**
 
@@ -15,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/gdeveloper101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gdeveloper101" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/giridharan pasupathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giridharan pasupathi" height="30" width="40" /></a>
 </p>
 
